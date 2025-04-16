@@ -19,6 +19,7 @@ spotify-project/
 ├── index.html
 ├── vite.config.js
 └── package.json
+
 ⚙️ Como rodar o projeto
 
 git clone https://github.com/Luanmarqz/spotify-project.git
