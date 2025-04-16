@@ -25,3 +25,7 @@ git clone https://github.com/Luanmarqz/spotify-project.git
 cd spotify-project
 npm install
 npm run dev
+
+💻 Link Direto
+
+https://spotify-project-one-lyart.vercel.app/
